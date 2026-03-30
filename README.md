@@ -10,6 +10,10 @@ A Model Context Protocol server implementation for ChatterBox, enabling AI agent
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@ChatterBoxIO/chatterboxio-mcp-server/badge" alt="ChatterBox MCP Server" />
 </a>
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/overquotaai-chatterboxio-mcp-server).
+
 ## Overview
 
 The ChatterBox MCP Server provides tools for AI agents to:
